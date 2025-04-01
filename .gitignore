@@ -3,6 +3,7 @@
 
 # Log file
 *.log
+logs/
 
 # BlueJ files
 *.ctxt
@@ -19,6 +20,48 @@
 *.tar.gz
 *.rar
 
+# Ignore environment and configuration files
+*.env
+*.properties
+config/
+application.properties
+application.yml
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Ignore IDE and editor settings
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Ignore build directories
+target/
+out/
+bin/
+
+# Ignore dependency folders
+lib/
+libs/
+node_modules/
+
+# Ignore Tomcat-specific files
+work/
+temp/
+logs/
+conf/Catalina/
+
+# Ignore MongoDB data and dumps
+dump/
+*.lock
+data/
+
+# Ignore iText and Apache POI temporary files
+*.pdf
+*.xls
+*.xlsx
+*.doc
+*.docx
