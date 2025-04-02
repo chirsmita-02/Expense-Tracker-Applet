@@ -24,7 +24,7 @@ Version Control: GitHub
 **📌 Features**
 
 ✅ GUI Interface using Java Swing & AWT
-✅ MongoDB Integration for data storage
+✅ MongoDB Atlas Integration for data storage
 ✅ Tomcat Support for servlet-based interactions
 ✅ PDF & Excel Export using iText & Apache POI
 ✅ User Authentication (if implemented)
