@@ -30,6 +30,36 @@ Version Control: GitHub
 ✅ User Authentication (if implemented)
 ✅ Dynamic Data Handling
 
+# 🖥️ GUI Screenshots
+
+### ➕ Add Expense
+> *(Insert screenshot here)*
+
+### 📊 Filter and View Expenses
+> *(Insert screenshot here)*
+
+---
+
+# 🚀 How to Run the Project
+
+### 🔧 Prerequisites
+- Java 8 or above
+- Maven (for dependency management)
+
+---
+
+### ▶️ Run using IDE (IntelliJ, Eclipse, etc.)
+
+1. **Clone the repository**:
+```bash
+git clone https://github.com/chirsmita-02/Expense-Tracker-Applet.git
+cd Expense-Tracker-Applet
+2. **Open the project in your Java IDE.**
+
+3. Run the main class:
+src/main/java/com/expensetracker/ExpenseTrackerUI.java
+This launches the Swing UI.
+
 **📜 License**
 
 This project is open-source and licensed under the MIT License.
