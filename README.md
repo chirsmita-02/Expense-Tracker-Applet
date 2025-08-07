@@ -30,14 +30,6 @@ Version Control: GitHub
 ✅ User Authentication (if implemented)
 ✅ Dynamic Data Handling
 
-# 🖥️ GUI Screenshots
-
-![Add Expense](https://raw.githubusercontent.com/chirsmita-02/Expense-Tracker-Applet/main/Screenshot%202025-04-07%20001400.png)
-![Add Expense](https://raw.githubusercontent.com/chirsmita-02/Expense-Tracker-Applet/main/Screenshot%202025-04-07%20001400.png)
-![Add Expense](https://raw.githubusercontent.com/chirsmita-02/Expense-Tracker-Applet/main/Screenshot%202025-04-07%20001400.png)
-![Add Expense](https://raw.githubusercontent.com/chirsmita-02/Expense-Tracker-Applet/main/Screenshot%202025-04-07%20001400.png)
-
-
 ---
 
 # 🚀 How to Run the Project
