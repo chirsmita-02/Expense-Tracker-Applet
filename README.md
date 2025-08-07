@@ -32,11 +32,11 @@ Version Control: GitHub
 
 # 🖥️ GUI Screenshots
 
-### ➕ Add Expense
-> *(Insert screenshot here)*
+![Add Expense](https://raw.githubusercontent.com/chirsmita-02/Expense-Tracker-Applet/main/Screenshot%202025-04-07%20001400.png)
+![Add Expense](https://raw.githubusercontent.com/chirsmita-02/Expense-Tracker-Applet/main/Screenshot%202025-04-07%20001400.png)
+![Add Expense](https://raw.githubusercontent.com/chirsmita-02/Expense-Tracker-Applet/main/Screenshot%202025-04-07%20001400.png)
+![Add Expense](https://raw.githubusercontent.com/chirsmita-02/Expense-Tracker-Applet/main/Screenshot%202025-04-07%20001400.png)
 
-### 📊 Filter and View Expenses
-> *(Insert screenshot here)*
 
 ---
 
@@ -54,7 +54,7 @@ Version Control: GitHub
 ```bash
 git clone https://github.com/chirsmita-02/Expense-Tracker-Applet.git
 cd Expense-Tracker-Applet
-2. **Open the project in your Java IDE.**
+2. Open the project in your Java IDE.
 
 3. Run the main class:
 src/main/java/com/expensetracker/ExpenseTrackerUI.java
